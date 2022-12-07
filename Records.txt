@@ -1,0 +1,50 @@
+2022 NBA Player Records
+=================================================================
+Player Name:       Luka Doncic
+Player Age:        23
+Player Team:       Dallas Mavericks
+Player Position:   PG
+Player PPG:        33.1
+=================================================================
+Player Name:       Stephen Curry
+Player Age:        34
+Player Team:       Golden State Warriors
+Player Position:   PG
+Player PPG:        31.4
+=================================================================
+Player Name:       Giannis Antetokounmpo
+Player Age:        27
+Player Team:       Milwaukee Bucks
+Player Position:   PF
+Player PPG:        30.9
+=================================================================
+Player Name:       Kevin Durant
+Player Age:        34
+Player Team:       Brooklyn Nets
+Player Position:   PF
+Player PPG:        29.3
+=================================================================
+Player Name:       Jason Tatum
+Player Age:        24
+Player Team:       Boston Celtics
+Player Position:   SF
+Player PPG:        30.5
+=================================================================
+Player Name:       Lebron James
+Player Age:        37
+Player Team:       Los Angeles Lakers
+Player Position:   SF
+Player PPG:        25.8
+=================================================================
+Player Name:       Jorda Cadd
+Player Age:        3
+Player Team:       ihjfd
+Player Position:   C
+Player PPG:        234.0
+=================================================================
+Player Name:       foie 33
+Player Age:        4
+Player Team:       pokff
+Player Position:   PG
+Player PPG:        34.0
+=================================================================
