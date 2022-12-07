@@ -32,7 +32,7 @@ int main()
 
     if(fptr == NULL) //Check if file opened properly
     {
-       printf("File did not open successfully!\n");
+       printf("Records file did not open successfully!\n");
     }
     else
     {
